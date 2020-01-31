@@ -1,6 +1,6 @@
 import React from 'react';
 import { configure, addDecorator } from '@storybook/react';
-import styled, { css } from 'styled-components'
+import styled from 'styled-components';
 
 const Decorator = styled.div`
     display: 'flex';
